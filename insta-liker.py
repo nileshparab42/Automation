@@ -1,5 +1,5 @@
 # Resolution of display = 1366 X 768
-# Browser : Firefox
+# Browser : Firefox (90% Zoom)
 
 #----------------------importing relevent modules----------------------------
 import pyautogui as pg
