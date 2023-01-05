@@ -1,4 +1,4 @@
-![Cover image](https://github.com/nileshparab42/Data-Structures-and-Algorithms/blob/master/assets/DSA%20Cover.png)
+![Cover image](https://github.com/nileshparab42/Automation/blob/master/Amadeus/assets/Amadeus-Cover.png)
 
 # Amadeus - Desktop Asistant
 
