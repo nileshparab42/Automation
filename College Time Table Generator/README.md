@@ -1,4 +1,4 @@
-![Cover image](https://github.com/nileshparab42/Machine-Learning/blob/master/Cancer%20Detection/assets/CD%20Cover.png)
+![Cover image](https://github.com/nileshparab42/Automation/blob/master/College%20Time%20Table%20Generator/Assets/TG-Cover.png)
 
 # College Timetable Generator
 
