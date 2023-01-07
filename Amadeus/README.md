@@ -48,7 +48,7 @@ This will create a new virtual environment called myenv, activate it, and then i
 To install an executable file of Amadeus, you can follow these steps:
 
 1. Download the executable file from the Amadeus repository. You can do this by clicking on the file and then clicking the "Download" button, or by using the `curl` or `wget` command to download the file directly from the command line.
-2. Make the file executable. In Linux or macOS, you can use the chmod command to give the file execute permissions:
+2. Make the file executable. In Linux or macOS, you can use the `chmod` command to give the file execute permissions:
 ```
 chmod +x /path/to/file.exe
 ```
@@ -56,15 +56,12 @@ chmod +x /path/to/file.exe
 ```
 ./file.exe
 ```
-4. Keep in mind that some executable files may require certain dependencies or libraries to be installed in order to run correctly. You may need to install these dependencies manually or using a package manager, such as apt or yum, before you can run the executable file.
+4. Keep in mind that some executable files may require certain dependencies or libraries to be installed in order to run correctly. You may need to install these dependencies manually or using a package manager, such as `apt` or `yum`, before you can run the executable file.
 
 ## Authors
 
-Contributors names and contact info
-
-Nilesh Parab  
-[nileshparab42](https://github.com/nileshparab42)
-
+- [Nilesh Parab](https://github.com/nileshparab42) (Project Lead) - [Website](https://nileshparab10.blogspot.com/)
+  
 
 ## Acknowledgments
 
