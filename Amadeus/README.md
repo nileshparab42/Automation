@@ -8,14 +8,6 @@ The Desktop Assistant is designed to help users with tasks, information, and com
 
 Desktop Assistant is a virtual assistant designed to help you with tasks and answer your questions. You can interact with Desktop Assistant through natural language, simply by speaking to it.
  
-## Features
-
-- **Feature 1:** Description of feature 1
-- **Feature 2:** Description of feature 2
-- **Feature 3:** Description of feature 3
-
-![image of features](https://github.com/nileshparab42/Automation/blob/master/Amadeus/assets/Amadeus-Cover.png)
-
 ## Getting Started
 
 ### Language
@@ -30,6 +22,14 @@ Desktop Assistant is a virtual assistant designed to help you with tasks and ans
 * datetime
 * os
 * webbrowser
+
+## Features
+
+- **Feature 1:** Description of feature 1
+- **Feature 2:** Description of feature 2
+- **Feature 3:** Description of feature 3
+
+![image of features](https://github.com/nileshparab42/Automation/blob/master/Amadeus/assets/Amadeus-Cover.png)
 
 ## Installation
 
