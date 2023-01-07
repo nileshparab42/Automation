@@ -2,19 +2,26 @@
 
 # Amadeus - Desktop Asistant
 
-Simple overview of use/purpose.
+The Desktop Assistant is designed to help users with tasks, information, and communication.
 
 ## Description
 
-An in-depth paragraph about your project and overview of use.
-
+Desktop Assistant is a virtual assistant designed to help you with tasks and answer your questions. You can interact with Desktop Assistant through natural language, simply by typing or speaking to it.
+ 
 ## Getting Started
 
 ### Language
 
-* Cpp
-* C
 * Python
+
+### Modules
+
+* pyaudio
+* speech_recognition
+* pyttsx3
+* datetime
+* os
+* webbrowser
 
 ## Help
 
@@ -28,13 +35,8 @@ command to run if program contains helper info
 Contributors names and contact info
 
 Nilesh Parab  
-[nilesh_parab_](https://www.instagram.com/nilesh_parab_/)
+[nileshparab42](https://github.com/nileshparab42)
 
-## Version History
-
-* 0.1
-    * Basics of cpp
-    * See [commit change]() or See [release history]()
 
 ## Acknowledgments
 
