@@ -29,7 +29,7 @@ Desktop Assistant is a virtual assistant designed to help you with tasks and ans
 
 To download a Amadeus project, you can use the git clone command. This command creates a copy of the repository in a new directory on your local machine.
 ```
-git clone https://github.com/USERNAME/REPOSITORY.git
+git clone https://github.com/nileshparab42/Automation/tree/master/Amadeus.git
 ```
 To set up the project, you can use the pip command to install the required packages specified in the requirements.txt file.
 ```
