@@ -1,12 +1,12 @@
-![Cover image](https://github.com/nileshparab42/Amadeus/blob/master/assets/Amadeus-Cover.png)
+![Cover image](https://github.com/nileshparab42/Automation/blob/master/College%20Time%20Table%20Generator/Assets/TG-Cover.png)
 
-# Amadeus - Desktop Asistant
+# College Timetable Generator
 
-The Desktop Assistant is designed to help users with tasks, information, and communication.
+A simple tool for generating college time tables.
 
 ## Description
 
-Desktop Assistant is a virtual assistant designed to help you with tasks and answer your questions. You can interact with Desktop Assistant through natural language, simply by speaking to it.
+A college timetable generator is a computer program that helps students and faculty create schedules for their classes and labs. It typically allows users to input their course information, such as the name of the course, the instructor's name, and the time and location of the class. The time table generator then generates a customized schedule based on this information. The generated schedule may be presented in the form of a table or calendar view, making it easy for users to see their schedules at a glance. This type of project can be useful for college students and faculty as it helps them better plan their time and stay organized.
  
 ## Features
 
