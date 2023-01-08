@@ -43,7 +43,7 @@ Here are some examples of what you can ask Desktop Assistant:
 
 ## Installation
 
-### Downloading the Amadeus Repository
+### Get the Amadeus Repository now.
 
 To download a Amadeus project, you can use the git clone command. This command creates a copy of the repository in a new directory on your local machine.
 ```
