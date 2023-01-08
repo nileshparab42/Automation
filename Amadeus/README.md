@@ -10,9 +10,18 @@ Desktop Assistant is a virtual assistant designed to help you with tasks and ans
  
 ## Features
 
-- **Feature 1:** Description of feature 1
-- **Feature 2:** Description of feature 2
-- **Feature 3:** Description of feature 3
+Here are some examples of what you can ask Desktop Assistant:
+
+- "What time is it now?"
+- "Search something on Google"
+- "Search something on Youtube"
+- "Open Visual Studio Code"
+- "Open GitHub"
+- "Open Classroom"
+- "Open File explorer"
+- "Open Notepad"
+- "Open browser"
+- "Open Youtube"
 
 ![image of features](https://github.com/nileshparab42/Automation/blob/master/Amadeus/assets/Amadeus-Cover.png)
 
