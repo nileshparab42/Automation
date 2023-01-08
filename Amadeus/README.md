@@ -23,7 +23,7 @@ Here are some examples of what you can ask Desktop Assistant:
 - "Open browser"
 - "Open Youtube"
 
-![image of features](https://github.com/nileshparab42/Automation/blob/master/Amadeus/assets/Amadeus-Cover.png)
+![image of features](https://github.com/nileshparab42/Automation/blob/master/Amadeus/assets/AD-Features.png)
 
 
 ## Getting Started
