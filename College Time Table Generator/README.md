@@ -8,23 +8,39 @@ Effective College Scheduling Solution
 
 A college timetable generator is a computer program that helps students and faculty create schedules for their classes and labs. It typically allows users to input their course information, such as the name of the course, the instructor's name, and the time and location of the class. The time table generator then generates a customized schedule based on this information. The generated schedule may be presented in the form of a table or calendar view, making it easy for users to see their schedules at a glance. This type of project can be useful for college students and faculty as it helps them better plan their time and stay organized.
  
-## Features
+## Problem Statement
 
-Here are some examples of what you can ask Desktop Assistant:
+- Students and faculty may have difficulty keeping track of their schedules and ensuring that they are able to attend all of their classes and other academic activities.
+- Coordinating schedules with those of other students and faculty can be challenging, particularly in larger colleges with many courses and instructors.
+- Classrooms may not be used efficiently if schedules are not properly coordinated.
+- Existing methods for creating and managing schedules, such as manual scheduling or using spreadsheets, can be tedious and error-prone.
+- There is a need for a tool that can help students and faculty create and manage their schedules in an efficient and organized manner.
 
-- "What time is it now?"
-- "Search something on Google"
-- "Search something on Youtube"
-- "Open Visual Studio Code"
-- "Open GitHub"
-- "Open Classroom"
-- "Open File explorer"
-- "Open Notepad"
-- "Open browser"
-- "Open Youtube"
+## Solution
 
-![image of features](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+### Representation of teacher
 
+We developed a matrix that represents the teacher, This matrix includes details for each year including the teacher's name, shift, subject, theoretical hours, practical hours, and lab number.
+
+![Teacher Matrix](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+
+### Allocation of lectures
+
+1. Based on their timeslots, our system will filter teachers.
+2. After that, we'll place them according to each year's schedules.
+3. Teacher assignments will be made while they are still in effect.
+4. Since we cycle through each teacher in each iteration, there won't be many lectures from the same teacher.
+5. Parallel teacher allocation won't occur because we cycle through the teachers list and various years in each iteration at the same time.
+
+We developed a matrix that represents the teacher, This matrix includes details for each year including the teacher's name, shift, subject, theoretical hours, practical hours, and lab number.
+
+![Allocation strategy](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
+
+### Generating word files
+
+Finally, word documents will be generated for each schedule for each year.
+
+![Word format](https://github.com/nileshparab42/Amadeus/blob/master/assets/AD-Features.png)
 
 ## Getting Started
 
@@ -34,18 +50,15 @@ Here are some examples of what you can ask Desktop Assistant:
 
 ### Modules
 
-* pyaudio
-* speech_recognition
-* pyttsx3
-* datetime
+* docx
+* random
 * os
-* webbrowser
 
 ## Installation
 
-### Get the Amadeus Repository now.
+### Get the College timetable generator Repository now.
 
-To download a Amadeus project, you can use the git clone command. This command creates a copy of the repository in a new directory on your local machine.
+To download a College timetable generator project, you can use the git clone command. This command creates a copy of the repository in a new directory on your local machine.
 ```
 git clone https://github.com/nileshparab42/Amadeus.git
 ```
@@ -62,7 +75,7 @@ pip install -r requirements.txt
 ```
 This will create a new virtual environment called myenv, activate it, and then install the required packages.
 
-### Installation of the Amadeus 
+### Installation of the College timetable generator 
 To install an executable file of Amadeus, you can follow these steps:
 
 1. Download the executable file from the Amadeus repository. You can do this by clicking on the file and then clicking the "Download" button, or by using the `curl` or `wget` command to download the file directly from the command line.
@@ -83,5 +96,5 @@ chmod +x /path/to/amadeus.exe
 
 ## Acknowledgements
 
-- This project was inspired by the work of the [CodeWithHarry](https://www.youtube.com/@CodeWithHarry).
-- We also used resources and tools from the [GeeksforGeeks](https://www.geeksforgeeks.org/speech-recognition-in-python-using-google-speech-api/) to develop and test our project.
+- This project was inspired by the work of the [TheCodex](https://www.youtube.com/@TheCodex).
+- We also used resources and tools from the [Aspose](https://blog.aspose.com/words/create-word-documents-using-python/) to develop and test our project.
