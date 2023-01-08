@@ -2,7 +2,7 @@
 
 # College Timetable Generator
 
-A simple tool for generating college time tables.
+Effective College Scheduling Solution
 
 ## Description
 
